@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom IoC Container", "Custom IoC Container\Custom IoC Container.csproj", "{0603DB7A-34FF-4A1B-9502-6337F5F4928F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC.Implementation", "IoC.Implementation\IoC.Implementation.csproj", "{393B352C-FF6B-4360-B8F1-CF555056FDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC.Dependencies", "IoC.Dependencies\IoC.Dependencies.csproj", "{5935984F-7DF3-4BE5-90E1-2FAF65BCE107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0603DB7A-34FF-4A1B-9502-6337F5F4928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0603DB7A-34FF-4A1B-9502-6337F5F4928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0603DB7A-34FF-4A1B-9502-6337F5F4928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0603DB7A-34FF-4A1B-9502-6337F5F4928F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393B352C-FF6B-4360-B8F1-CF555056FDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393B352C-FF6B-4360-B8F1-CF555056FDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393B352C-FF6B-4360-B8F1-CF555056FDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393B352C-FF6B-4360-B8F1-CF555056FDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5935984F-7DF3-4BE5-90E1-2FAF65BCE107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5935984F-7DF3-4BE5-90E1-2FAF65BCE107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5935984F-7DF3-4BE5-90E1-2FAF65BCE107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5935984F-7DF3-4BE5-90E1-2FAF65BCE107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
